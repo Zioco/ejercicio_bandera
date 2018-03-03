@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio_3</string>
+    <string name="peru">Perú</string>
+    <string name="estados_unidos">Estados Unidos</string>
+    <string name="alemania">Alemania</string>
+    <string name="reino_unido">Reino Unido</string>
+</resources>

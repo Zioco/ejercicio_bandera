@@ -13,7 +13,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="94dp"
-        android:background="#7fffffff" />
+        android:background="#cccccc" />
 
     <RadioGroup
         android:id="@+id/grupo"
